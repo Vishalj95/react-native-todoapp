@@ -2,7 +2,7 @@ Simple React Native - Expo Todo App
 
 ## Preview
 
-![App Preview](./preview.png =250x)
+![App Preview](./preview.png =250x350)
 
 ## Available Scripts
 
